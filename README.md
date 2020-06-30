@@ -5,7 +5,7 @@ In this project infrastructure as code for high-availability web app was designe
 ## How to Run
 Run the following command in the terminal to create a stack in CloudFormation: 
 ```
-./create.sh
+./create.sh InfrastructureAsCodeUdacity file://InfrastructureAsCode.yml file://InfrastructureAsCodeParameters.json
 ```
 OR alternative:
 ```
