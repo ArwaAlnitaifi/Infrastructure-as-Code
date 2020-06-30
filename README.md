@@ -1,5 +1,5 @@
 # InfrastructureAsCode
-In this project infrastructre as code for high-availability web app was designed and deployed using AWS CloudFormation, YAML, and JSON. 
+In this project infrastructure as code for high-availability web app was designed and deployed using AWS CloudFormation, YAML, and JSON.
 
 
 ## How to Run
